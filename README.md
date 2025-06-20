@@ -1,5 +1,6 @@
 # DuckLake API
 
+[![CI Status](https://img.shields.io/github/actions/workflow/status/esadek/ducklake-api/ci.yml)](https://github.com/esadek/ducklake-api/actions/workflows/ci.yml)
 [![Supported Python Versions](https://img.shields.io/badge/python-3.10+-blue)](pyproject.toml)
 [![License](https://img.shields.io/github/license/esadek/ducklake-api)](LICENSE)
 [![Powered by FastAPI](https://img.shields.io/badge/powered_by-FastAPI-009688)](https://github.com/fastapi/fastapi)
