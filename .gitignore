@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Ruff
+.ruff_cache/
+
+# mypy
+.mypy_cache/
+
+# pytest
+.pytest_cache/
+
+# Nox
+.nox/
+
+# DuckLake
+metadata.ducklake
+metadata.ducklake.files/
